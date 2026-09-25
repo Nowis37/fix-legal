@@ -18,7 +18,7 @@ Contact : **freitas.simon@live.fr**.
 
 | Données | Exemples | Pourquoi |
 |---|---|---|
-| Ton compte | Identifiant « Se connecter avec Apple », adresse e-mail (réelle ou masquée par Apple), prénom si tu le donnes | Te connecter et te saluer |
+| Ton compte | Identifiant « Se connecter avec Apple » ou Google, adresse e-mail (réelle ou masquée par Apple), prénom si tu le donnes ou si Google le transmet | Te connecter et te saluer |
 | Tes objets | Nom, catégorie, marque, modèle, dates d'achat, prix, valeur estimée, kilométrage | Construire tes cartes et ta collection |
 | Tes entretiens et garanties | Intitulés, dates, rappels | Te prévenir au bon moment |
 | Tes documents | Factures, tickets, notices, photos que tu ajoutes | Les garder en lieu sûr, lire les factures si tu le demandes |
@@ -50,6 +50,7 @@ Quand tu scannes un objet ou que tu demandes à Fix de lire une facture, le fich
 - **Supabase** héberge la base de données, la connexion et les fichiers, sur des **serveurs à Paris (Union européenne)**. Chaque compte est cloisonné : personne d'autre que toi ne peut lire tes objets ou tes documents.
 - **Google** (Gemini) analyse les photos et factures que tu envoies, et cherche les notices à partir de la marque et du modèle, comme décrit au point 4. Ce traitement peut avoir lieu hors de l'Union européenne ; il est encadré par les clauses contractuelles types de la Commission européenne.
 - **Apple** gère la connexion « Se connecter avec Apple » et les achats Fix+ : Fix ne reçoit jamais tes informations de paiement. Pour savoir si Fix+ est actif, le serveur de Fix vérifie la preuve d'achat signée par Apple et garde la formule, l'identifiant d'achat et sa date de fin ; Apple le prévient des renouvellements, fins d'abonnement et remboursements. Les rappels sont programmés directement sur ton iPhone.
+- **Google**, si tu choisis « Continuer avec Google » : Google te connecte et transmet à Fix ton adresse e-mail, ton nom et ta photo de profil. Fix n'utilise que ton prénom et ne demande aucun autre accès à ton compte Google ; quand tu supprimes ton compte Fix, son accès à ton compte Google est retiré.
 - **Le fabricant** de ton appareil : quand tu ouvres ou enregistres une notice, elle est téléchargée directement depuis son site, qui voit alors l'adresse IP de ton iPhone, comme pour toute page web.
 
 Aucune donnée n'est vendue ni partagée à des fins publicitaires.
