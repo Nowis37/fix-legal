@@ -12,7 +12,7 @@ Fix t'aide à suivre tes objets : garanties, factures, entretiens et rappels. Ce
 ## 1. Qui est responsable de tes données ?
 
 Fix est édité par **Simon Freitas** ([statut et adresse à compléter]).
-Contact : **[adresse e-mail de contact à compléter]**.
+Contact : **freitas.simon@live.fr**.
 
 ## 2. Quelles données Fix utilise-t-il ?
 
@@ -62,7 +62,7 @@ Sur ton iPhone, la copie de ta collection gardée pour la consultation hors lign
 
 ## 8. Tes droits
 
-Tu peux à tout moment accéder à tes données, les corriger, les supprimer (directement dans l'app), en demander une copie (portabilité), t'opposer à un traitement ou en demander la limitation, en écrivant à **[adresse e-mail de contact à compléter]**. Tu peux aussi adresser une réclamation à la **CNIL** (cnil.fr).
+Tu peux à tout moment accéder à tes données, les corriger, les supprimer (directement dans l'app), en demander une copie (portabilité), t'opposer à un traitement ou en demander la limitation, en écrivant à **freitas.simon@live.fr**. Tu peux aussi adresser une réclamation à la **CNIL** (cnil.fr).
 
 ## 9. Âge minimum
 

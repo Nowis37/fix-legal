@@ -9,7 +9,7 @@ permalink: /conditions/
 
 ## 1. Objet
 
-Ces conditions encadrent l'utilisation de l'application **Fix**, éditée par **Simon Freitas** ([statut et adresse à compléter], contact : **[adresse e-mail de contact à compléter]**). En créant un compte, tu les acceptes.
+Ces conditions encadrent l'utilisation de l'application **Fix**, éditée par **Simon Freitas** ([statut et adresse à compléter], contact : **freitas.simon@live.fr**). En créant un compte, tu les acceptes.
 
 ## 2. Le service
 
@@ -58,4 +58,4 @@ Ces conditions sont soumises au droit français. En cas de litige, tu peux recou
 
 ## 12. Contact
 
-**[adresse e-mail de contact à compléter]**
+**freitas.simon@live.fr**
