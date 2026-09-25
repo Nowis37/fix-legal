@@ -36,9 +36,17 @@ Tes objets, photos et documents t'appartiennent. Tu autorises Fix à les stocker
 
 Pour la qualité du service et la maîtrise des coûts, certaines fonctions (scan d'objet, lecture de facture) sont limitées à un nombre d'utilisations par jour. Il est interdit de chercher à contourner les protections de l'app ou de l'utiliser de manière automatisée.
 
-## 7. Fix+
+## 7. Fix gratuit et Fix+
 
-Une offre payante, Fix+, pourra proposer des fonctions supplémentaires. Son prix, sa durée et ses conditions seront présentés avant tout achat ; le paiement et la résiliation passent par ton compte Apple.
+Fix est gratuit jusqu'à 5 objets. Fix+ supprime cette limite. Trois formules, achetées avec ton compte Apple (prix en France, TTC ; ils peuvent varier selon le pays) :
+
+- **Mensuel** : 7,99 € par mois ;
+- **Annuel** : 59,99 € par an ;
+- **À vie** : 129 € en un seul paiement, sans abonnement.
+
+Les formules mensuelle et annuelle commencent par un **essai gratuit de 7 jours**, une seule fois par compte Apple. Sauf résiliation au moins 24 heures avant la fin de l'essai ou de la période en cours, l'abonnement se renouvelle automatiquement au même prix, prélevé par Apple. Tu le gères et le résilies dans les réglages de ton compte Apple ; la résiliation prend effet à la fin de la période déjà payée. **Supprimer ton compte Fix ne résilie pas ton abonnement.**
+
+Si tu reviens à la formule gratuite avec plus de 5 objets, rien n'est supprimé : tu peux toujours consulter et modifier tes objets, seul l'ajout de nouveaux objets est bloqué. Les remboursements sont traités par Apple.
 
 ## 8. Disponibilité
 

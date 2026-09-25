@@ -46,7 +46,7 @@ Quand tu scannes un objet ou que tu demandes à Fix de lire une facture, le fich
 
 - **Supabase** héberge la base de données, la connexion et les fichiers, sur des **serveurs à Paris (Union européenne)**. Chaque compte est cloisonné : personne d'autre que toi ne peut lire tes objets ou tes documents.
 - **Google** (Gemini) analyse les photos et factures que tu envoies, comme décrit au point 4. Ce traitement peut avoir lieu hors de l'Union européenne ; il est encadré par les clauses contractuelles types de la Commission européenne.
-- **Apple** gère la connexion « Se connecter avec Apple ». Les rappels sont programmés directement sur ton iPhone.
+- **Apple** gère la connexion « Se connecter avec Apple » et les achats Fix+ : Fix ne reçoit jamais tes informations de paiement, l'app vérifie seulement sur ton iPhone si Fix+ est actif. Les rappels sont programmés directement sur ton iPhone.
 
 Aucune donnée n'est vendue ni partagée à des fins publicitaires.
 
