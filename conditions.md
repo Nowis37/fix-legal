@@ -5,7 +5,7 @@ permalink: /conditions/
 
 # Conditions d'utilisation de Fix
 
-*Dernière mise à jour : 25 septembre 2026*
+*Dernière mise à jour : 26 septembre 2026*
 
 ## 1. Objet
 
@@ -44,7 +44,7 @@ Fix est gratuit jusqu'à 5 objets. Fix+ supprime cette limite. Trois formules, a
 - **Annuel** : 59,99 € par an ;
 - **À vie** : 129 € en un seul paiement, sans abonnement.
 
-Les formules mensuelle et annuelle commencent par un **essai gratuit de 7 jours**, une seule fois par compte Apple. Sauf résiliation au moins 24 heures avant la fin de l'essai ou de la période en cours, l'abonnement se renouvelle automatiquement au même prix, prélevé par Apple. Tu le gères et le résilies dans les réglages de ton compte Apple ; la résiliation prend effet à la fin de la période déjà payée. **Supprimer ton compte Fix ne résilie pas ton abonnement.**
+Les formules mensuelle et annuelle commencent par un **essai gratuit de 14 jours**, une seule fois par compte Apple. Sauf résiliation au moins 24 heures avant la fin de l'essai ou de la période en cours, l'abonnement se renouvelle automatiquement au même prix, prélevé par Apple. Tu le gères et le résilies dans les réglages de ton compte Apple ; la résiliation prend effet à la fin de la période déjà payée. **Supprimer ton compte Fix ne résilie pas ton abonnement.**
 
 Si tu reviens à la formule gratuite avec plus de 5 objets, rien n'est supprimé : tu peux toujours consulter et modifier tes objets, seul l'ajout de nouveaux objets est bloqué. Les remboursements sont traités par Apple.
 
